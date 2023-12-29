@@ -17,3 +17,6 @@ TRUE of FALSE
 \description{
 Check if an instance is a member of a list or vector
 }
+\author{
+fnaufel
+}

@@ -1,4 +1,7 @@
 
+#' @importFrom lobstr obj_addr
+NULL
+
 C <- R6::R6Class(
   'C',
   public = list(
